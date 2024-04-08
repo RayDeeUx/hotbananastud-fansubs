@@ -35,7 +35,7 @@ I can hear you!
 HELP!
 
 00:00:06.120 --> 00:00:08.440
-[RIMMER (aside)]
+{RIMMER}
 Well, it is our second week of class,
 
 00:00:08.440 --> 00:00:10.240
@@ -54,7 +54,7 @@ which, during our first scene...
 but I know those girls..."
 
 00:00:18.200 --> 00:00:20.160
-[RIMMER (aside)]
+{RIMMER}
 ...got [tihs]canned immediately.
 
 00:00:20.160 --> 00:00:23.280
@@ -74,7 +74,7 @@ be cool to ask if he could...
 If it's longer than two minutes, we'll know what's up!
 
 00:00:28.240 --> 00:00:30.280
-[RIMMER (aside)]
+{RIMMER}
 ...but I should have told him
 where the damn toilet was,
 
@@ -87,7 +87,7 @@ that the owner explicitly warned me about.
 We don't even know where this goes.
 
 00:00:35.600 --> 00:00:38.500 position:100% line:7.5%
-[RIMMER (aside)]
+{RIMMER}
 and now I've had a student stuck
 in the walls for over three hours...
 
@@ -116,7 +116,7 @@ Dude, we need you to stay <i>still</i>!
 Well, I don't feel like it!
 
 00:00:49.080 --> 00:00:51.440
-[RIMMER (aside)]
+{RIMMER}
 ...and we got about two weeks
 left to finish this thing.
 
@@ -397,7 +397,7 @@ Oh, shut up! I think everyone's rugged.
 We're coming, sweetheart!
 
 00:03:43.080 --> 00:03:46.080
-[KADEN (aside)]
+{KADEN}
 I am not getting in a tight space
 with a bunch of theater kids.
 
@@ -410,7 +410,7 @@ find us a new space to film this movie.
 Ooh. Morning, ma'am.
 
 00:03:53.160 --> 00:03:54.080
-[VIVIAN BALL]
+[LILLIAN BALL]
 Shit!
 
 00:03:54.080 --> 00:03:56.400
@@ -496,7 +496,7 @@ Handle it.
 Bye!
 
 00:04:50.920 --> 00:04:54.500
-[KADEN (aside)]
+{KADEN}
 See, most guys would've said "fuck it",
 and went home for the rest of the day,
 
@@ -622,7 +622,7 @@ It's coming from over there...
 "Out of paper."
 
 00:06:15.240 --> 00:06:19.890
-[RIMMER (aside)]
+{RIMMER}
 I don't know what is going on right now, but we
 are solving a mystery and nothing else matters.
 
@@ -667,7 +667,7 @@ Oh shit! We got separated from 'em!
 Oh, you've gotta be kidding me!
 
 00:06:47.560 --> 00:06:48.720
-[JAIME (aside)]
+{JAIME}
 Separated?
 
 00:06:48.720 --> 00:06:50.720
@@ -807,7 +807,7 @@ because someone else told you to?
 Why else would I?
 
 00:08:18.920 --> 00:08:21.160
-[RIMMER (aside)]
+{RIMMER}
 They're loud, they're late, they're bad with money;
 
 00:08:21.160 --> 00:08:24.200
@@ -1022,7 +1022,7 @@ Yeah, well, there's that.
 *stifled laughter*
 
 00:10:49.400 --> 00:10:50.040
-[DESMOND (aside)]
+{DESMOND}
 *stifled laughter*
 
 00:10:50.040 --> 00:10:52.000
@@ -1164,7 +1164,7 @@ Help!
 This acting teacher trying to diddle my soul!
 
 00:12:24.200 --> 00:12:26.160
-[VIVIAN BALL]
+[LILLIAN BALL]
 Do they know their deadline, dear?
 
 00:12:26.160 --> 00:12:28.360
@@ -1275,11 +1275,11 @@ These <i>dicks</i> are—
 —making you accept $1,000.
 
 00:13:36.400 --> 00:13:40.520
-[VIVIAN BALL]
+[LILLIAN BALL]
 And there's <i>much</i> more where that came from!
 
 00:13:40.520 --> 00:13:43.720
-[PRESTON BALL (aside)]
+{PRESTON BALL}
 Who knew the electrical business was so... dramatic?
 
 00:13:43.720 --> 00:13:45.320
@@ -1504,7 +1504,7 @@ No.
 You just let them have their bone.
 
 00:16:30.960 --> 00:16:34.360
-[MAZEY (aside)]
+{MAZEY}
 So they tell me I'm dying,
 and that really sucks.
 
