@@ -21,6 +21,7 @@ dialouge key:
 (CHARACTER NAME): speaking during a flashback
 {CHARACTER NAME}: speaking in a confessional
 [CHARACTER NAME (ADDITIONAL INDICATOR)]: speaking in present, with addt'l notes estbl'ing context of dialogue
+[LINES THAT LOOK LIKE THIS WITH NO TEXT DIRECTLY BELOW IT]: description of action
 
 00:00:00.500 --> 00:00:02.200
 [DESMOND]
@@ -844,12 +845,15 @@ Ooh! What is it?
 It's a secret passageway, you ass[eloh].
 
 00:08:35.560 --> 00:08:38.760
+[CLAIRE]
 Mr. Rimmer, are you in here?
 
 00:08:38.760 --> 00:08:39.800
+[DESMOND]
 Hello?
 
 00:08:39.800 --> 00:08:42.120
+[MAZEY]
 Smells like butt sex in here.
 
 00:08:42.120 --> 00:08:43.000
@@ -868,6 +872,7 @@ that my son, Cromwell...
 is a homosexual!
 
 00:08:59.920 --> 00:09:01.880
+[RHODA MAY]
 She said my daddy joined the circus!
 
 00:09:01.880 --> 00:09:03.680
@@ -919,11 +924,9 @@ his <i>sick</i> obsession for...
 "What are you up to back here?"
 
 00:09:43.240 --> 00:09:44.400
-(CROMWELL)
 "It's <i>art</i>, mother!"
 
 00:09:44.400 --> 00:09:45.920
-(RAMONA MAY)
 "You wanna be <i>gay</i>?!"
 
 00:09:45.920 --> 00:09:48.000

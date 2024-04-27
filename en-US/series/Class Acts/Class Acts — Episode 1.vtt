@@ -21,6 +21,7 @@ dialouge key:
 (CHARACTER NAME): speaking during a flashback
 {CHARACTER NAME}: speaking in a confessional
 [CHARACTER NAME (ADDITIONAL INDICATOR)]: speaking in present, with addt'l notes estbl'ing context of dialogue
+[LINES THAT LOOK LIKE THIS WITH NO TEXT DIRECTLY BELOW IT]: description of action
 
 00:00:02.640 --> 00:00:07.360
 "It's really hard to <i>not</i> offend anyone these days."
