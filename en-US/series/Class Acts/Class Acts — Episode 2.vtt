@@ -22,6 +22,10 @@ dialouge key:
 {CHARACTER NAME}: speaking in a confessional
 [CHARACTER NAME (ADDITIONAL INDICATOR)]: speaking in present, with addt'l notes estbl'ing context of dialogue
 [LINES THAT LOOK LIKE THIS WITH NO TEXT DIRECTLY BELOW IT]: description of action
+---
+CHARACTER NAME ONE: speaking almost simultaneously that splitting it based on timestamps would make it difficult to understand what the other person is saying
+CHARACTER NAME TWO: speaking almost simultaneously that splitting it based on timestamps would make it difficult to understand what the other person is saying
+---
 
 00:00:00.440 --> 00:00:02.440
 [LILLIAN BALL]
@@ -91,10 +95,12 @@ Jokes on you, asswipe!
 We have nothing to lose.
 
 00:00:36.700 --> 00:00:39.080
-JAIME: Okay, <i>now</i> we have nothing to lose.
+[JAIME]
+Okay, <i>now</i> we have nothing to lose.
 
 00:00:39.080 --> 00:00:40.960
-JAIME: Okay, <i>NOW</i> we have nothing to lose.
+[JAIME]
+Okay, <i>NOW</i> we have nothing to lose.
 
 00:00:40.960 --> 00:00:42.650
 Later, buttholes.
@@ -481,7 +487,7 @@ take acting seriously, you better join our class.
 00:04:35.040 --> 00:04:37.600
 [KADEN]
 If you don't, I can have you
-all <i>legally assassinated</i>!
+all <i>legally assassinated!</i>
 
 00:04:37.600 --> 00:04:39.040
 [RIMMER]
@@ -783,31 +789,31 @@ Most gays actually use it as a meetup spot.
 
 00:07:21.000 --> 00:07:23.120
 [RHODA MAY]
-🎵 Before each time I masturbate, 🎵
+♬ Before each time I masturbate, ♬
 
 00:07:23.120 --> 00:07:25.400
 [RHODA MAY]
-🎵 I first thank God that I am straight. 🎵
+♬ I first thank God that I am straight. ♬
 
 00:07:25.400 --> 00:07:27.680
 [RHODA MAY]
-🎵 And if I ever lose my way, 🎵
+♬ And if I ever lose my way, ♬
 
 00:07:27.680 --> 00:07:30.200
 [RHODA MAY]
-🎵 I just remember these easy shapes: 🎵
+♬ I just remember these easy shapes: ♬
 
 00:07:30.200 --> 00:07:32.470
 [RHODA MAY]
-🎵 "line in the circle", 🎵
+♬ "line in the circle", ♬
 
 00:07:32.470 --> 00:07:34.700
 [EVERYONE]
-🎵 "line in the circle", 🎵
+♬ "line in the circle", ♬
 
 00:07:34.700 --> 00:07:35.080
 [EVERYONE]
-🎵 "line in th—
+♬ "line in th—
 
 00:07:35.080 --> 00:07:38.920
 [RICKY]

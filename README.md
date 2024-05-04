@@ -5,3 +5,5 @@ All `.vtt` files are licensed under the terms of ODbL v1.0.
 Intended for use on [VLC media player](https://www.videolan.org/vlc/).
 
 Questions? Concerns? [Open an issue](https://github.com/RayDeeUx/hotbananastud-fansubs/issues/new).
+
+If it wasn't clear by now, the subtitle files in this GitHub repository are filled with foul language. They serve only as volunteer transcripts of YouTube videos, and do not reflect any particular thoughts/beliefs of mine. This should have been made fairly obvious, given that these are subtitle files (especially if you know who this specific YouTube handle belongs to), but hopefully this paragraph should be enough of a hint as well.

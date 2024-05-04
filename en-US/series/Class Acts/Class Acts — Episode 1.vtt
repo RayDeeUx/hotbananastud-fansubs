@@ -22,6 +22,10 @@ dialouge key:
 {CHARACTER NAME}: speaking in a confessional
 [CHARACTER NAME (ADDITIONAL INDICATOR)]: speaking in present, with addt'l notes estbl'ing context of dialogue
 [LINES THAT LOOK LIKE THIS WITH NO TEXT DIRECTLY BELOW IT]: description of action
+---
+CHARACTER NAME ONE: speaking almost simultaneously that splitting it based on timestamps would make it difficult to understand what the other person is saying
+CHARACTER NAME TWO: speaking almost simultaneously that splitting it based on timestamps would make it difficult to understand what the other person is saying
+---
 
 00:00:02.640 --> 00:00:07.360
 "It's really hard to <i>not</i> offend anyone these days."
@@ -1384,7 +1388,7 @@ Slow, slow.
 I'm going slow!
 
 00:15:05.960 --> 00:15:07.800
-God damn it, you're gonna <i>break MY CAR</i>!
+God damn it, you're gonna <i>break MY CAR!</i>
 
 00:15:07.800 --> 00:15:15.680
 [RIMMER AND JAIME (singing)]
